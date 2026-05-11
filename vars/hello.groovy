@@ -1,4 +1,4 @@
-def ab(){
+def hello() {
   echo "hello"
   sh "mkdir ab" 
 }
