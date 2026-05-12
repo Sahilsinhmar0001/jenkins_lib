@@ -1,3 +1,3 @@
-def abc() {
+def call() {
   echo "hello world"
 }
